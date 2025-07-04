@@ -13,3 +13,11 @@ there are no epaper hat that exist for the epaper displays made by seekink. Thes
 started out by reading datasheets for the seekink display and figuring out the circuit and the component
 
 time spent- 2hr
+
+## **DAY 2- Basic Circuit**
+
+Completed the necessary control citcuit for EPD and voltage shifting 
+
+![image](https://github.com/user-attachments/assets/690f0740-b4fc-419d-9524-d3ab39146dc0)
+
+ Time spent - 2 HR
