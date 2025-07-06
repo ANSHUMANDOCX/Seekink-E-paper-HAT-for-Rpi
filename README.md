@@ -9,6 +9,8 @@ This a HAT for a epaper display for SEEKINK displays with raspberry pi Also can 
 I needed a HAT that could be used with a Cheap Epaper dispaly paired with a raspberry pi. I found one on LCSC but it didnt have a HAT of that wa 100% compatible with it. 
 So, i took reference from existing HATs and the Datasheet of the Epaper Display and made my own that could be attatched on top of raspberry pi WH.
 I also added a 9 pin connector and a Voltage Level shifter so that i can connect it to most of the microcontrollers.
+
+It can be programmed using the GxEPD2 Library
 ## PCB
 ![image](https://github.com/user-attachments/assets/a9ba6f21-2f37-46eb-a6db-7d9b7c5b8f97)
 ![image](https://github.com/user-attachments/assets/229bf69e-b5ce-4472-ae0a-789390241e0d)
