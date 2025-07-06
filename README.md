@@ -1,5 +1,5 @@
 # Seekink-E-paper-HAT-for-Rpi
-This a HAT for a epaper display for SEEKINK displays with raspberry pi
+This a HAT for a epaper display for SEEKINK displays with raspberry pi Also can be used with any oher MCU using the 9 in connector. It supports multiple Displays of almost every Size
 
 ## Parts
 - Raspberry Pi Zero 2 W
