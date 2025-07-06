@@ -6,7 +6,7 @@
 - Total Time Spent: 11 Hrs
 ----
 
-## **DAY 3- Starting OUT**
+## **DAY 1- 3 July 2025- Starting OUT**
 
 there are no epaper hat that exist for the epaper displays made by seekink. These are cheap but there are no peripherals to use with it. so i want to make one to use with a raspberry pi
 
@@ -14,7 +14,7 @@ started out by reading datasheets for the seekink display and figuring out the c
 
 time spent- 2hr
 
-## **DAY 2- Basic Circuit**
+## **DAY 2 - 4 July 2025- Basic Circuit**
 
 Completed the necessary control citcuit for EPD and voltage shifting 
 
@@ -22,7 +22,7 @@ Completed the necessary control citcuit for EPD and voltage shifting
 
  Time spent - 2 HR
 
-## **DAY 3- Interfaced RPi and Complete PCB**
+## **DAY 3 - 6 July 2025 - Interfaced RPi and Complete PCB**
 
 Completed the power control logic and the RPi header connections. Also added a additional 9 pin connector to connect with other MCUs
 Assigned the components ,started and complted the PCB. Took some time searching about the Pinouts for RPI
