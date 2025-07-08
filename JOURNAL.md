@@ -1,10 +1,10 @@
-# SEEKINK E-papar HAT
-- **Title:** Epapar HAT
-- **Author:** Anshuman Tripathy
-- **Description:** It is a Epaper to be used with a SEEKINK display and Raspberry Pi 
-- **Created_at:** 2025-07-03
-- Total Time Spent: 11 Hrs
-----
+---
+title: "Epapar HAT"
+author: "Anshuman Tripathy"
+description: "It is a Epaper to be used with a SEEKINK display and Raspberry Pi "
+created_at: "2025-07-03"
+total_time_spent: "11 Hrs"
+---
 
 ## **DAY 1- 3 July 2025- Starting OUT**
 
