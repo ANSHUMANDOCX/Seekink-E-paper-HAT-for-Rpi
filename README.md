@@ -28,3 +28,4 @@ It can be programmed using the GxEPD2 Library
 |      |              | **Total**                         |          |10.77|        |                     |
 |||Raspberry Pi zero 2 W+ adapters                        |          |20            |Silverline||https://www.silverlineelectronics.in/products/raspberry-pi-zero-2-silverline-india-authorised-distributor?variant=41596564144297   https://www.silverlineelectronics.in/products/usb-b-male-to-usb-a-female-otg-adaptor-official?variant=41014335176873  https://www.silverlineelectronics.in/products/official-raspberry-pi-micro-sd-card-adapter?variant=41020736995497|
 |||PCB+ Shipping||12|JLCPCB|||
+|||**TOTAL**||42|||
